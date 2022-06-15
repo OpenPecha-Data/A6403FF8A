@@ -1,0 +1,19 @@
+segment_sources:
+  IF0723E24:
+    type: origin_type
+    relation: translation
+    language: en
+  I8A157224:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9dc51fdfaf194b059f3edf6a00087024:
+    IF0723E24: b0529220be7a49478c33c8b4ff2ed031
+    I8A157224: 5fcf3a03b09b48b4b78553dc7d72a145
+  3f80f6653c8644778baa327f7fecc2e8:
+    IF0723E24: f29dc98767434da0856da40002f66a81
+    I8A157224: cfe5f034eb9043edb29eac83841cec0d
+  ee6ee23173684319b61b94591389b18b:
+    IF0723E24: 6d80786dfb6b48bea1f3efe6380fbf07
+    I8A157224: e83f7808d3f844378df45847c6de74a8
